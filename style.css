@@ -181,6 +181,10 @@ body::-webkit-scrollbar {
         align-items: center;
     }
 
+    .containerBody p{
+        width: 300px;
+    }
+
     .containerBody img{
         width: 170px;
     }
