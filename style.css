@@ -192,4 +192,8 @@ body::-webkit-scrollbar {
     .containerCont div p{
         display: none;
     }
+
+    .containerSub article img{
+        width: 150px;
+    }
 }
